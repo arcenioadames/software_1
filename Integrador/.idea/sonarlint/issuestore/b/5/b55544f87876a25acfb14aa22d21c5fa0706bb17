@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+V
+java:S5993"9Change the visibility of this constructor to "protected".(§ô­Ë8ÿÍéÃ1
+G
+java:S1068"*Remove this unused "cedula" private field.(ä ÉØ8‚ÎéÃ1
+L
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8ƒÎéÃ1
+G
+java:S1068"*Remove this unused "correo" private field.(•“8ƒÎéÃ1
+O
+java:S1068"-Remove this unused "ubicacion" private field.(ÁŞ·êıÿÿÿÿ8„ÎéÃ1
